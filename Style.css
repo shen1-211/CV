@@ -1,0 +1,12 @@
+body
+{
+    background: white;
+}
+.round
+{
+    margin: auto;
+}
+.round img
+{
+    border-radius: 50%;
+}     
